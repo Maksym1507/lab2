@@ -1,0 +1,42 @@
+[{
+  "title": "Titanic",
+  "date": "1997",
+  "carrier": "BR",
+  "actor":["Leonardo DiCaprio", "Kate Winslet"],
+  "genre": ["Romance", "Drama"]
+},
+{
+  "title": "Avengers: Endgame",
+  "date": "2019",
+  "carrier": "DVD",
+  "actor":["Tom Holland", "Robert Downey Junior"],
+  "genre": ["Action", "Sci-Fi"]
+},
+{
+  "title": "Red Notice",
+  "date": "2021",
+  "carrier": "CD",
+  "actor":["Ryan Reynolds", "Dwayne Johnson"],
+  "genre": ["Thriller", "Comedy"]
+},
+{
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "date": "2003",
+  "carrier": "DVD",
+  "actor":["Johnny Depp", "Penélope Cruz"],
+  "genre": ["Adventure", "Action"]
+},
+{
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "date": "2004",
+  "carrier": "BR",
+  "actor":["Daniel Radcliffe", "Emma Watson", "Rupert Grin"],
+  "genre": ["Adventure", "Fantasy"]
+},
+{
+  "title": "Deadpool 2",
+  "date": "2018",
+  "carrier": "DVD",
+  "actor":["Brad Pitt", "Ryan Reynolds"],
+  "genre": ["Action", "Fantasy"]
+}]
